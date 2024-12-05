@@ -1,0 +1,27 @@
+header{
+    color:orangered;
+    background-color:black;
+}
+
+.image{
+    
+    border-radius:  180px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+/*footer*/
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #222;
+    color: #fff;
+}
+
+body{
+    background-color: aquamarine;
+}
+h5{
+    text-align: center;
+}
